@@ -1,0 +1,35 @@
+/* ********product****** */
+.product-title{
+    padding-top: 40px;
+}
+.product-title h4{
+    font-size: 15px;
+}
+.product-text{
+    padding: 20px 0px;
+}
+.product-text p{
+    font-size: 13px;
+    color: #999999;
+}
+/* product2 */
+.produc2{
+    padding: 20px 0px;
+}
+.produc2 p{
+    margin: 0;
+}
+.product-2-text1{
+  padding-top:15px;
+}
+.product-2-text1 p{
+    color: #d24260;
+    font-size: 15px;
+}
+.product-2-text2 p{ 
+    color: #999999;
+    font-size: 12px;
+}
+.border-main-2{
+    border: 1px solid red;
+}
